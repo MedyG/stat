@@ -45,3 +45,15 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+/.idea/
+/data_excel/
+/data_txt/
+/output/
+/output_figure/
+code/ml_methods.py
+code/tree.dot
+code/__pycache__/
+code/stat.py
+code/abandoned_methods.py
+code/LogisticRegressionClassifier/test/smsspamcollection(1).zip
